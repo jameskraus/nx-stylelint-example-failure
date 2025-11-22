@@ -1,0 +1,10 @@
+{
+  "name": "@nx-stylint-example-failure/nx-stylint-example-failure-e2e",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "implicitDependencies": [
+      "@nx-stylint-example-failure/nx-stylint-example-failure"
+    ]
+  }
+}
